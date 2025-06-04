@@ -30,6 +30,8 @@
  
 ---
 
+<img align="center" width="100%" src="https://github.com/im-omthakur/im-omthakur/blob/main/animation.gif?raw=true"/>
+
 ### :technologist: About :
 <div>
 <details>
