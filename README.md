@@ -119,4 +119,4 @@
 <a href="https://github.com/im-omthakur"><img align="center" width="100%" src="https://awesome-github-stats.azurewebsites.net/user-stats/im-omthakur?cardType=level&theme=radical&preferLogin=true"></a>  
 <a href="https://github.com/im-omthakur"><img align="center" width="100%" src="https://nirzak-streak-stats.vercel.app?user=im-omthakur&theme=radical"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-omthakur&label=Profile%20views&color=0e75b6&style=flat" alt="im-omthakur" /> </p>
-<img align="center" width="100%" height="200%" src="https://github.com/im-omthakur/im-omthakur/blob/main/gojo.png?raw=true"/>
+<img align="center" width="100%" height="150%" src="https://github.com/im-omthakur/im-omthakur/blob/main/gojo.png?raw=true"/>
