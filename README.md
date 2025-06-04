@@ -117,7 +117,7 @@
   
 ### 🔥 GitHub Stats
 
-<img align="center" width="500" height="900" src="https://github.com/im-omthakur/im-omthakur/blob/main/gojo.png?raw=true"/>
+<img align="center" width="100%" height="200%" src="https://github.com/im-omthakur/im-omthakur/blob/main/gojo.png?raw=true"/>
 
 <a href="https://github.com/im-omthakur"><img align="center" width="100%" src="https://awesome-github-stats.azurewebsites.net/user-stats/im-omthakur?cardType=level&theme=radical&preferLogin=true"></a>  
 <a href="https://github.com/im-omthakur"><img align="center" width="100%" src="https://nirzak-streak-stats.vercel.app?user=im-omthakur&theme=radical"></a>
