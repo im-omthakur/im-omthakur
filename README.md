@@ -100,8 +100,8 @@
   ---
   
 ### 🔥 GitHub Stats
-<a href="https://github.com/im-omthakur"><img align="center" width="100%" src="https://awesome-github-stats.azurewebsites.net/user-stats/im-omthakur?cardType=level&theme=radical&preferLogin=true"></a>  
-<a href="https://github.com/im-omthakur"><img align="center" width="100%" src="https://nirzak-streak-stats.vercel.app?user=im-omthakur&theme=radical"></a>
+<a href="https://github.com/im-omthakur"><img align="center" width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/im-omthakur?cardType=level&theme=radical&preferLogin=true"></a>  
+<a href="https://github.com/im-omthakur"><img align="center" width="80%" src="https://nirzak-streak-stats.vercel.app?user=im-omthakur&theme=radical"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=im-omthakur&label=Profile%20views&color=0e75b6&style=flat" alt="im-omthakur" /> </p>
 
 ```
