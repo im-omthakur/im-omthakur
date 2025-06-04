@@ -27,8 +27,10 @@
     <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
 </div>
+
  
 ---
+
 
 ### :technologist: About :
 <div>
@@ -119,4 +121,4 @@
 <a href="https://github.com/im-omthakur"><img align="center" width="100%" src="https://awesome-github-stats.azurewebsites.net/user-stats/im-omthakur?cardType=level&theme=radical&preferLogin=true"></a>  
 <a href="https://github.com/im-omthakur"><img align="center" width="100%" src="https://nirzak-streak-stats.vercel.app?user=im-omthakur&theme=radical"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=im-omthakur&label=Profile%20views&color=0e75b6&style=flat" alt="im-omthakur" /> </p>
-<img align="center" width="70%" src="https://github.com/im-omthakur/im-omthakur/blob/main/animation.gif?raw=true"/>
+<img align="center" width="90%" height="70%" src="https://github.com/im-omthakur/im-omthakur/blob/main/animation.gif?raw=true"/>
