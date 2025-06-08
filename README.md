@@ -86,7 +86,6 @@
  ![tcpdump](https://img.shields.io/badge/tcpdump-%23000000.svg?style=for-the-badge&logo=tcpdump&logoColor=white)
 
 #### **Operating Systems:**
- ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
  ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
  ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
  ![Kali Linux](https://img.shields.io/badge/kali%20linux-%230087BA.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
